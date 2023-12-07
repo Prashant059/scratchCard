@@ -1,0 +1,23 @@
+.App-header {
+  border: 1px solid red;
+  height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.head{
+  color: black;
+  font-size: x-large;
+  text-align: center;
+ 
+}
+@media screen and (min-width : 320px) and (max-width : 640px) {
+  
+  /* .App-header {
+    border: 1px solid red;
+    height: 100%;
+    width: 100%;
+    margin-top: 14rem;
+  } */
+}
